@@ -1,5 +1,6 @@
 #!/usr/bin/python
 ## https://pypi.python.org/pypi/python-twitter
+## https://dev.twitter.com/overview/api/twitter-libraries
 import os, sys, csv, datetime, time, twitter
 
 def test():
